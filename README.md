@@ -7,5 +7,9 @@ Check on Github<br/>
 
 
 <br/><br/>
-## Kaggle<br/>
+Kaggle<br/>
 Datasets
+
+<br/><br/>
+import os<br/>
+c.NotebookApp.notebook_dir = os.path.join("D:\\", "_path", "_subpath")<br/>
