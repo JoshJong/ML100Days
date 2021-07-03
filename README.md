@@ -13,3 +13,6 @@ Datasets
 <br/><br/>
 import os<br/>
 c.NotebookApp.notebook_dir = os.path.join("D:\\", "_path", "_subpath")<br/>
+
+<br/><br/>
+001 - Numpy - arange, linspace, ndarray 處理數學
